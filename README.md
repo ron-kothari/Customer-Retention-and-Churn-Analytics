@@ -190,17 +190,3 @@ AVERAGE(customer_data[total_spent])
 2. Open with **Power BI Desktop**  
 3. Explore slicers, filters, and pages  
 4. Review customer-level details under Page 2  
-
----
-
-## 👤 Author
-
-### **G. Shyam Venkat**  
-**Data Analyst | SQL | Power BI | DAX | Excel | Data Modeling**
-
-🔗 GitHub: https://github.com/shyamcodes-ai  
-🔗 LinkedIn: https://www.linkedin.com/in/g-shyam-venkat-304ab536b  
-
----
-
-⭐ If you found this project useful, consider giving the repository a star!
