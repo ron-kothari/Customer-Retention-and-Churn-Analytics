@@ -1,6 +1,7 @@
 # 📉 Customer Retention & Churn Analytics — Power BI + SQL Project
 
-An end-to-end **Customer Analytics** project using **SQL, Power BI, Power Query, and DAX** to measure retention, churn, repeat customers, customer lifetime value patterns, and overall customer behavior.
+
+An end to end customer analytics project using SQL, Power BI, Power Query, and DAX to measure retention, churn, repeat purchase behavior, and customer lifetime value patterns.
 
 This project demonstrates complete workflow skills:  
 data cleaning → SQL analysis → data modeling → DAX → dashboard design → churn insights.
@@ -189,4 +190,21 @@ AVERAGE(customer_data[total_spent])
 1. Download the `.pbix` file  
 2. Open with **Power BI Desktop**  
 3. Explore slicers, filters, and pages  
-4. Review customer-level details under Page 2  
+4. Review customer-level details under Page 2
+
+## Tools Used
+
+- SQL for querying and segmenting customer data
+- Power BI Desktop for dashboard design
+- Power Query for data cleaning and transformation
+- DAX for calculated measures and KPIs
+- Excel for initial data review
+
+## Skills and Things I Learned
+
+- Writing SQL queries to segment customers by activity, churn status, and order frequency
+- Building DAX measures to calculate retention and repeat rate from scratch
+- Structuring a customer status model that ties SQL logic directly into Power BI
+- Designing a two page dashboard that separates a high level overview from detailed drill down
+- Translating churn patterns into insights a retention or marketing team could actually act on
+- Working through a full analytics workflow, from raw data to a story backed by numbers
