@@ -6,9 +6,9 @@ An end to end customer analytics project using SQL, Power BI, Power Query, and D
 This project demonstrates complete workflow skills:  
 data cleaning → SQL analysis → data modeling → DAX → dashboard design → churn insights.
 
-[****]()
+📊 [****]()
 
-[****]()
+📊 [**Download the PowerBI Dashboard**](https://github.com/ron-kothari/Customer-Retention-and-Churn-Analytics/blob/main/PowerBI_Files/Customer_Retention_Analytics.pbix)
 
 🖥️ [**View the SQL code**](https://github.com/ron-kothari/Customer-Retention-and-Churn-Analytics/blob/main/SQL/Customer_Retention_Analytics.sql)
 
